@@ -3,5 +3,6 @@ public class Admin{
 	private String name;
 	public static void main(String[] args) {
 		System.out.println("Hello Admin")
+		System.out.println("Admin");
 	}
 }
