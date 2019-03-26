@@ -1,3 +1,4 @@
+package com.ethon.vo;
 public class Admin{
 	private String admin;
 	private String name;
